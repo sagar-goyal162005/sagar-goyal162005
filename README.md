@@ -72,7 +72,11 @@
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagar-goyal162005&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-goyal162005&layout=compact&theme=radical&hide_border=true&bg_color=0B0F1A" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-goyal162005&theme=radical" />
 </p>
 
 ---
