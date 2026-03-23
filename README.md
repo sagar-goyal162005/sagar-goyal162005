@@ -64,7 +64,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-goyal162005/About-me/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/sagar-goyal162005/sagar-goyal162005/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
