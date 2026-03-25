@@ -44,8 +44,6 @@
 | SwasthAI | AI-powered health-focused solution built around practical, user-centric outcomes. |
 | IP-Address-port-scanner | Nmap-based tool for network discovery, port analysis, and security diagnostics. |
 
-> Want clickable links here? Send the exact repo URLs and I’ll wire them in.
-
 ---
 
 ## GitHub Stats
