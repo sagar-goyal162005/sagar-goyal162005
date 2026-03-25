@@ -44,25 +44,16 @@
 | SwasthAI | AI-powered health-focused solution built around practical, user-centric outcomes. |
 | IP-Address-port-scanner | Nmap-based tool for network discovery, port analysis, and security diagnostics. |
 
----
 
-## GitHub Stats
+## 📊 Development Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar-goyal162005&show_icons=true&theme=radical&hide_border=true&bg_color=0B0F1A" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-goyal162005&theme=radical&hide_border=true&background=0B0F1A" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagar-goyal162005&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-goyal162005&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-goyal162005&theme=react-dark&hide_border=true&bg_color=0B0F1A" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-goyal162005/sagar-goyal162005/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-goyal162005&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
