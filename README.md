@@ -48,12 +48,8 @@
 ## 📊 Development Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sagar-goyal162005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sagar-goyal162005&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&hide_rank=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=sagar-goyal162005&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=sagar-goyal162005&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
